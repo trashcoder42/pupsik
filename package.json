@@ -1,0 +1,16 @@
+{
+  "name": "pupsik_bot",
+  "version": "1.0.0",
+  "description": "bot for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "pupsik",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.4"
+  }
+}
